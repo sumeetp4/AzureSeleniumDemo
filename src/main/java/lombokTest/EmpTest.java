@@ -2,11 +2,7 @@ package lombokTest;
 
 import java.lang.reflect.Method;
 
-/**
- * 
- * @author NaveenKhunteta
- *
- */
+
 public class EmpTest {
 
 	public static void main(String ar[]) {
